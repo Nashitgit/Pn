@@ -1,0 +1,6 @@
+Basic Structure of C programming
+Printing in C
+Taking input in C
+Variables and Data Types
+Data Type Limitations
+Variable Naming Rules
