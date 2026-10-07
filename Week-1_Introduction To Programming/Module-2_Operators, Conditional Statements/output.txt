@@ -1,0 +1,4 @@
+Summation = 21
+Subtraction = 11
+Multiplication = 80
+Division = 1.60
