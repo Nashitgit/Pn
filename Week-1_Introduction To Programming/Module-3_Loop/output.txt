@@ -1,3 +1,7 @@
-I am sorry
-I am sorry
-I am sorry
+1
+2
+4
+8
+16
+32
+64
