@@ -1,5 +1,5 @@
-//to convert small letter to capital letter have to add 32
-//to convert capital letter to small letter have to subtract 32
+//to convert capital letter to small letter have to add 32
+//to convert small letter to capital letter have to subtract 32
 
 #include<stdio.h>
 int main()
