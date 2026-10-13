@@ -1,4 +1,4 @@
-// in this probelm if input is less than 0 that means negative then it will not show real answer. solved in
+// in this probelm if input is less than 0 that means negative then it will not show real answer. example 4.1.c file
 
 #include<stdio.h>
 int main()
