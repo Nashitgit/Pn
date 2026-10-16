@@ -1,0 +1,2 @@
+// suppose array x[0] stores in memory location 540. as 4 bytes so it will take 540,541,542,543 memory location. Array x[1] will take next memory location 544,545,546,547. 
+// now based on start 540 location which address x[9] will take?  540+(9*4) = 576 .here int takes 4 bytes, so 4 is multiplied.  that means x[9] will take 576, 577, 578,579
