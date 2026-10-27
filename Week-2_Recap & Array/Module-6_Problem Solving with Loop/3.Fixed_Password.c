@@ -1,5 +1,5 @@
 // EOF = End Of File.
-// here we will take input until we get our expected input
+// here we will take input until we get our expected result
 
 #include <stdio.h>
 int main()
