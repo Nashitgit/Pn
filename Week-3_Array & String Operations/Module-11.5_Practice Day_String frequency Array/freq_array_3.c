@@ -22,5 +22,5 @@ int main()
         printf("%d -> %d\n", i, fre[i]);
     }
     
-    return 0;
+    return 0; 
 }
