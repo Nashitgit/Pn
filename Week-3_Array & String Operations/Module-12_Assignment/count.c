@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/contests/mid-term-a-introduction-to-c-programming-a-batch-10/challenges/count-me-2-1/problem?isFullScreen=true
+
 /*
 Problem Statement
 
