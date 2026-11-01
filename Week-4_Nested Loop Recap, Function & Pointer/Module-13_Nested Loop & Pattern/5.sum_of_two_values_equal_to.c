@@ -1,3 +1,11 @@
+/* 
+ex: Sum of two numbers equal to 9 or not
+INput
+4
+5 3 2 6
+9
+
+*/
 #include <stdio.h>
 int main()
 {
