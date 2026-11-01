@@ -1,3 +1,5 @@
+//https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C
+
 /*
 Given two strings X and Y . Print the smallest lexicographical one.
 
@@ -18,6 +20,8 @@ acpc
 Output
 acm
 */
+
+
 
 #include<stdio.h>
 #include<string.h>
