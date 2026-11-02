@@ -22,8 +22,8 @@ int main()
             printf("*");
         }
         printf("\n");
-        star++;
-        space--;
+        star++; // star is increasing every line
+        space--; //space is decreasing every line
     }
     return 0;
 }
