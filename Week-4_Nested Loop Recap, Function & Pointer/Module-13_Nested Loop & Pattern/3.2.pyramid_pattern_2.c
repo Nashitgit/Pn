@@ -15,7 +15,7 @@ int main()
     int n; 
     scanf("%d", &n); 
     int star = n;
-    int space = n-1;
+    int space = 0;
     for (int i = 0; i < n; i++)  //for printing line
     {
         for (int k = 1; k <= space; k++) //for printing space

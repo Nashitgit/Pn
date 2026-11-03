@@ -10,27 +10,35 @@
 
 */
 
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
-    int n; 
-    scanf("%d", &n); 
+    int n;
+    scanf("%d", &n);
     int star = 1;
-    int space = n-1;
-    for (int i = 0; i < n; i++)  //for printing line
+    int space = n - 1;
+    for (int i = 1; i <= (2*n)-1; i++) // for printing line
     {
-        for (int k = 1; k <= space; k++) //for printing space
+        for (int j = 1; j <= space; j++)
         {
             printf(" ");
         }
-        for (int j = 1; j <= star; j++) //for printing star
+        for (int k = 1; k <= star; k++)
         {
             printf("*");
         }
+        if (i <= n - 1)
+        {
+            space--;
+            star += 2;
+        }
+        else
+        {
+            space++;
+            star-=2;
+        }
         printf("\n");
-        star += 2;  //every line star increasing difference 2
-        space--;
-    } 
-    
+    }
+
     return 0;
 }
