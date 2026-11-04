@@ -19,7 +19,7 @@ int main()
     {
         scanf("%d ", &a[i]); 
     }
-    fun(a, n); //আমরা যখন func থেকে array pass করি তখন array এর সাথে sizeও pass করতে হয়। যেন ওই func থেকে access করা যায়
+    fun(a, n); //আমরা যখন func থেকে array pass করি তখন array এর সাথে sizeও pass করতে হয়। যেন ওই func থেকে loop এ access করা যায়
 
     return 0;
 }

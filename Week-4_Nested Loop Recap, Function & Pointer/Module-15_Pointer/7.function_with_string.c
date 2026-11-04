@@ -1,5 +1,6 @@
 
 #include<stdio.h>
+// void fun (char* p,int n) //we can also receive array as pointer
 void fun (char a[],int n)
 {
     printf("%s\n", a);
