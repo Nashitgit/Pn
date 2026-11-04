@@ -6,7 +6,7 @@ int main()
 {
     int x=100;
     printf("%d\n", x);  //printing x value
-    printf("%p\n", &x); //printing x's mermory address
+    printf("%p\n", &x); //printing x's mermory address . (reference)
 
    
     int* ptr;   //declaring pointer
@@ -15,7 +15,7 @@ int main()
 
     printf("%d\n", *ptr);  //printing x value
 
-    *ptr = 200; //changing value using pointer
-    printf("%d\n", x); //
+    *ptr = 200; //changing value using pointer (dereference)
+    printf("%d\n", *ptr); //
     return 0;
 }
