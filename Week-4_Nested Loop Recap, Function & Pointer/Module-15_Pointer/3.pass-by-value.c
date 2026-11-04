@@ -1,8 +1,8 @@
 #include <stdio.h>
-void fun(x)  //just x's value is passed not the full variable. This is called pass by value
+void fun(x)  //just x's value is received not the full variable. This is called pass by value
 {
-    x = 20;
-    printf("%d\n", x); // 20 . va
+    x = 20; //value change করলেও main function থেকে পাবনা
+    printf("%d\n", x); // 20 
 
     printf("Fun Function X address: %p\n", &x); //
 }
