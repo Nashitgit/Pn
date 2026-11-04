@@ -8,7 +8,7 @@ void scanf(int *x)
 int main()
 {
     int x;
-    scanf("%d", &x); // we use & sign here: কারণ  input দিলে তা আমরা main function থেকে পাব । অর্থাত input যেন main function থেকে পাওয়া যায়। printf এ লাগেনা কারণ সেখানে value change করিনা শুধু print করি
+    scanf("%d", &x); // we use & sign here: কারণ scanf functin এ input দিলে তা  main function থেকে পেতে হবে । অর্থাত input যেন main function থেকে পাওয়া যায়। printf এ লাগেনা কারণ সেখানে value change করিনা শুধু print করি
     printf("%d", x); 
     return 0;
 }
