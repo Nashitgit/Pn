@@ -1,3 +1,5 @@
+//https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A
+
 #include<stdio.h>
 int sum(int a, int b)
 {
