@@ -6,7 +6,7 @@
 void hello()  //Recursion function
 {
     printf("Hello\n");
-    hello();  //here infinite, cause not controlled yet
+    hello();  //here infinite, cause not controlled yet. once memory will full, stack overflow.
 }
 int main()
 {
