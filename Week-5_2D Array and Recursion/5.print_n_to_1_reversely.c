@@ -1,3 +1,5 @@
+//আগে recursion call করে করে শেষ পর্যন্ত যেয়ে, তারপর শেষ function থেকে print করা শুরু
+
 #include<stdio.h>
 
 void hello(int i)  
