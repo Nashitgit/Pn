@@ -1,8 +1,9 @@
 /*
-Diagonal Matis: কর্ণ বরাবর value বাকি সব 0 . Primary Diagonal Matrix, Secondary matrix
+Diagonal Matix: কর্ণ বরাবর value বাকি সব 0 . Primary Diagonal Matrix, Secondary matrix
 
+Primary Diagonal Matrix: 
 - square matrix হতে হবে
-- কর্ণ বাদে বাকি সব 0
+- Primary কর্ণ বাদে বাকি সব 0
 
 - i==j হলে diagonal এর উপরে আছি
 
