@@ -38,8 +38,12 @@ int main()
                     
                 }
                 else        //outside diagonal : diagonal এর বাইরে সবগুলো 0 হতে হবে
-                {
-                    if (a[i][j] != 0) 
+                {  
+                    if (a[i][j] == 0) 
+                    {
+
+                    }
+                    else  // checking others value == 0 or not
                     {
                         printf("This is Not Primary diagonal Matrix");
                         is_diagonal = false;
