@@ -37,7 +37,7 @@ int main()
                     
                 // }
 
-                if (i + j != r -1 )         //outside diagonal : diagonal এর বাইরে সবগুলো 0 হতে হবে
+                if (i + j != r -1 )         
                 {
                     if (a[i][j] != 0) 
                     {
