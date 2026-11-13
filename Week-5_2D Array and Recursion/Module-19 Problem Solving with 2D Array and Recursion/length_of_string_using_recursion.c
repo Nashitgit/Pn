@@ -7,7 +7,8 @@ int rec(char s[], int i)
         return 0;
     }
 
-    int cnt = rec(s, i+1);
+    int cnt = rec(s, i+1); //return করা value store করার জন্য। যেন না হারায় এজন্য variable cnt
+    
     return cnt + 1;
 }
 
