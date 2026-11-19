@@ -1,3 +1,6 @@
+
+//https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G
+
 /*
 Given a string S. Print the origin string after replacing the following:
 

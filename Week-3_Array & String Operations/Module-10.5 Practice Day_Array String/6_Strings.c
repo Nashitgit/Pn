@@ -1,3 +1,6 @@
+//https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D
+
+
 /*
 Given two strings A and B. Print three lines contain the following:
 
@@ -15,10 +18,10 @@ Output
 Print the answer required above.
 
 Example
-InputCopy
+Input
 abcd
 ef
-OutputCopy
+Output
 4 2
 abcdef
 ebcd af

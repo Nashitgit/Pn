@@ -1,3 +1,6 @@
+//https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F
+
+
 /*
 Given a string S. Print the origin string if it's not too long otherwise, print the special abbreviation.
 

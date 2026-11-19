@@ -1,3 +1,7 @@
+
+//https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G
+
+
 /*
 Given a number N
  and an array A
