@@ -1,3 +1,6 @@
+//https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E
+
+
 /*
 Given a string S. Print the summation of its digits.
 

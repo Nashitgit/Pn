@@ -1,3 +1,6 @@
+//https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B
+
+
 /*
 Given a string S. Print the string S from the beginning to the first '\' character without printing the '\'.
 
