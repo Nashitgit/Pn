@@ -4,7 +4,6 @@ int main()
 {
     int a[101], b[101];
     scanf("%s %s", &a, &b);
-    int length = strlen(b);
 
     strcpy(a,b);
     printf("%s %s", a, b);
