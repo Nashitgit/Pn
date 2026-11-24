@@ -1,15 +1,15 @@
 #include<bits/stdc++.h>
 using namespace std;
-int* fun()  //return type হিসেবে pointer : int* দিতে হবে
+int* fun()  //return type হিসেবে pointer int* দিতে হবে
 {
     // int a[5];  //static array. array এর name a এর মধ্যে array এর 0 তম index এর address store থাকে
 
-    int* a = new int[5]; //dynamic array
+    int* a = new int[5]; //dynamic array.  array a এর মধ্যে array এর 0 তম index এর address store থাকে
     for (int i = 0; i < 5; i++)
     {
         cin >> a[i];
     }
-    return a;
+    return a;    // return করার পর stack memory থেকে সব delete হয়ে যায় ঠিকই, কিন্তু dynamic array যেহেতু heap memory তে থাকে ওটা থেকে যায়
 }
 int main()
 {
