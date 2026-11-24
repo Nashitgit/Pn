@@ -1,0 +1,11 @@
+
+1. Dynamic & Static
+
+2. Dynamic Variable
+
+3. Dynamic Array
+
+4. Array return from function
+
+5. Dynamic memory delete
+
