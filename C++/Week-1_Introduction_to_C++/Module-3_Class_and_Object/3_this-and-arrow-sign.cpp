@@ -22,7 +22,7 @@ class Student
 
 
         this->roll = roll; //this এখানে rahim নামক object কে point করছে
-        this->cls = cls;
+        this->cls = cls; //  = এর পরের টা variable
         this->cls = gpa;
 
     }
